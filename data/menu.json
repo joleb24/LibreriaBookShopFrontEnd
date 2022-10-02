@@ -1,0 +1,30 @@
+[
+    {
+        "naziv": "Home",
+        "href": "index.html"
+    },
+    {
+        "naziv": "Books",
+        "href": "books-media-list-view.html"
+    },
+    {
+        "naziv": "News",
+        "href": "news-events-list-view.html"
+    },
+    {
+        "naziv": "Blog",
+        "href": "blog.html"
+    },
+    {
+        "naziv": "Services",
+        "href": "services.html"
+    },
+    {
+        "naziv": "Cart",
+        "href": "cart.html"
+    },
+    {
+        "naziv": "Contact",
+        "href": "contact.html"
+    }
+]

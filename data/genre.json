@@ -1,0 +1,34 @@
+[
+    {
+       "id": 1,
+       "naziv": "Science fiction" 
+    },
+    {
+        "id": 2,
+        "naziv": "Drama" 
+    },
+    {
+        "id": 3,
+        "naziv": "Autobiography" 
+    },
+    {
+        "id": 4,
+        "naziv": "Thriller" 
+    },
+    {
+        "id": 5,
+        "naziv": "Classic" 
+    },
+    {
+        "id": 6,
+        "naziv": "Romance" 
+    },
+    {
+        "id": 7,
+        "naziv": "Mystery" 
+    },
+    {
+        "id": 8,
+        "naziv": "Satire"
+    }
+]

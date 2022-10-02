@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "slika": {
+            "src": "images/blogSlike/book-releases-2021.jpeg",
+            "alt": "New Book Release 2021"
+        },
+        "datum": "12-03-2022",
+        "naziv": "New Book Release",
+        "tvorac": {
+            "idT": 1,
+            "nazivT": "Admin"
+        },
+        "sadrzaj": "2021 has given us some incredible books. While you're perusing through this year's top releases, expect a brilliant mix of fiction from bestselling authors like Morgan Jerkins and Sally Rooney, along with an invitation into the lives of prominent figures like Senator Mazie K. Hirono in Heart of Fire and Tarana Burke in Unbound. Ahead, our list of the best books of 2021 to order today and thank yourself later.",
+        "brojKom": 15,
+        "brojPregleda": 450,
+        "brojLajkova": 75
+    },
+    {
+        "id": 2,
+        "slika": {
+            "src": "images/blogSlike/Best-SellingBooks.png",
+            "alt": "Best selling books"
+        },
+        "datum": "15-03-2022",
+        "naziv": "Best selling books",
+        "tvorac": {
+            "idT": 1,
+            "nazivT": "Admin"
+        },
+        "sadrzaj": "Having sold more than 500 million copies worldwide, Harry Potter by J. K. Rowling is the best-selling book series in history. The first novel in the series, Harry Potter and the Philosopher's Stone, has sold in excess of 120 million copies, making it one of the best-selling books of all time. As of June 2017, the series has been translated into 80 languages, placing Harry Potter among history's most translated literary works. The last four books in the series consecutively set records as the fastest-selling books of all time, where the final installment, Harry Potter and the Deathly Hallows, sold roughly fifteen million copies worldwide within twenty-four hours of its release. With twelve million books printed in the first US run, it also holds the record for the highest initial print run for any book in history.",
+        "brojKom": 20,
+        "brojPregleda": 300,
+        "brojLajkova": 40
+    },
+    {
+        "id": 3,
+        "slika": {
+            "src": "images/blogSlike/MostPopularGenres.png",
+            "alt": "Popular Literary Genres"
+        },
+        "datum": "18-03-2022",
+        "naziv": "Popular Literary Genres",
+        "tvorac": {
+            "idT": 1,
+            "nazivT": "Admin"
+        },
+        "sadrzaj": "The most popular book genres succeed in a variety of formats. From the hardcover you might buy at your local bookstore to the softcover on an airport book rack to the ebook you read on your tablet to the audiobook that you stream on your phone, bestsellers manage to reach readers in all corners of the publishing industry. Here is a survey of the different genres that routinely produce bestselling books: Romance, Mystery, SF, Biography, Autobiography, and Memoir",
+        "brojKom": 33,
+        "brojPregleda": 500,
+        "brojLajkova": 89
+    }
+]

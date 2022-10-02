@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "ime": "George",
+        "srednjeIme": false,
+        "prezime": "Orwell"
+    },
+    {
+        "id": 2,
+        "ime": "Aldous",
+        "srednjeIme": false,
+        "prezime": "Huxley"
+    },
+    {
+        "id": 3,
+        "ime": "Fyodor",
+        "srednjeIme": "Mikhailovich",
+        "prezime": "Dostoevsky"
+    },
+    {
+        "id": 4,
+        "ime": "Anton",
+        "srednjeIme": "Pavlovich",
+        "prezime": "Chekhov"
+    },
+    {
+        "id": 5,
+        "ime": "Charles",
+        "srednjeIme": false,
+        "prezime": "Bukowski"
+    },
+    {
+        "id": 6,
+        "ime": "Ernest",
+        "srednjeIme": false,
+        "prezime": "Hemingway"
+    }
+]
+ 
+
+

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "slika": {
+            "src": "images/news-event/news-listing-01.jpg",
+            "alt": "World Book Day Melbourne, Australia"
+        },
+        "datum": "25-10-2022",
+        "vreme": {
+            "pocetak": "10:15",
+            "kraj": "09-15"
+        },
+        "lokacija": {
+            "drzava":  "Australia",
+            "grad": "Melbourne"
+        },
+        "naslov": "World Book Day",
+        "sadrzaj": "World Book Day, also known as World Book and Copyright Day or International Day of the Book, is an annual event organized by the United Nations Educational, Scientific and Cultural Organization (UNESCO) to promote reading, publishing, and copyright. The first World Book Day was celebrated on 23 April in 1995, and continues to be recognized on that day. A related event in the Australia start 15-10-2022 in Melbourne Museum at 10:15AM, organized by LIBRARIA."
+    },
+    {
+        "id": 2,
+        "slika": {
+            "src": "images/news-event/news-listing-04.jpg",
+            "alt": "UNESCO City of Literature"
+        },
+        "datum": "15-10-2022",
+        "vreme": {
+            "pocetak": "08:30",
+            "kraj": "06-15"
+        },
+        "lokacija": {
+            "drzava":  "Australia",
+            "grad": "Melbourne"
+        },
+        "naslov": "Melbourne a world literary capital and UNESCO City of Literature",
+        "sadrzaj": "The iconic historic dome of the State Library of Victoria continues to inspire generations of writers, artists, researchers, students and visitors. It is the oldest free public library in Australia and has undergone a magnificent refurbishment and expansion, completed late 2019. The SLV provides historic reading rooms, a Create Quarter for schools, Ideas Quarter for entrepeneurs, and the Cowen Gallery space; it also hosts word-loving exhibitions, and is home to Readings bookshop, and Mr Tulk and Guild cafes."
+    }
+]

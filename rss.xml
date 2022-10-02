@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+ <rss version="2.0">
+ <channel>
+	<title>Libraria - New books</title>
+ 	<description>New books are available every week</description>
+ 	<link>https://liibraria.000webhostapp.com/books-media-list-view.html</link>
+    <item>
+ 		<title>One Hundred Years of Solitude</title>
+ 		<description>One Hundred Years of Solitudes a 1967 novel by Colombian author Gabriel García Márquez that tells the multi-generational story of the Buendia family, whose patriarch, Jose Arcadio Buendia, founded the (fictitious) town of Macondo. The novel is often cited as one of the supreme achievements in literature</description>
+ 		<link>https://liibraria.000webhostapp.com/books-media-list-view.html</link>
+ 	</item>
+ </channel>
+ </rss>

@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "idPisac": 1,
+        "idKat": [1, 8],
+        "slika": {
+            "src": "images/SlikeKnjiga/1984.jpg",
+            "alt": "1984 George Orvel"
+        },
+        "naslov": "1984",
+        "isbn": "12345588",
+        "cena": {
+            "aktuelnaCena": 45,
+            "staraCena": 55
+        },
+        "dostupnost": true,
+        "jezik": "English",
+        "opis": "Nineteen Eighty-Four (also stylised as 1984) is a dystopian social science fiction novel and cautionary tale written by English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime.",
+        "brojKupljenih": 45
+    },
+    {
+        "id": 2,
+        "idPisac": 1,
+        "idKat": [1, 8],
+        "slika": {
+            "src": "images/SlikeKnjiga/AnimalFarm.jpg",
+            "alt": "Animal Farm George Orvel"
+        },
+        "naslov": "Animal Farm",
+        "isbn": "12345599",
+        "cena": {
+            "aktuelnaCena": 25.50,
+            "staraCena": 39.99
+        },
+        "dostupnost": true,
+        "jezik": "English",
+        "opis": "Animal Farm is a satirical allegorical novella by George Orwell, first published in England on 17 August 1945. The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy.",
+        "brojKupljenih": 25
+    },
+    {
+        "id": 3,
+        "idPisac": 2,
+        "idKat": [1, 7],
+        "slika": {
+            "src": "images/SlikeKnjiga/BraveNewWolrd.jpg",
+            "alt": "Brave new world Aldous Huxly"
+        },
+        "naslov": "Brave New World",
+        "isbn": "12347777",
+        "cena": {
+            "aktuelnaCena": 100,
+            "staraCena": null
+        },
+        "dostupnost": true,
+        "jezik": "English",
+        "opis": "Brave New World is a dystopian social science fiction novel by English author Aldous Huxley, written in 1931 and published in 1932. Largely set in a futuristic World State, whose citizens are environmentally engineered into an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology.",
+        "brojKupljenih": 78
+    },
+    {
+        "id": 4,
+        "idPisac": 3,
+        "idKat": [2, 5],
+        "slika": {
+            "src": "images/SlikeKnjiga/BrothersKaramazov.jpg",
+            "alt": "The Brothers Karamazov Dostoevsky"
+        },
+        "naslov": "The Brothers Karamazov",
+        "isbn": "4448887112",
+        "cena": {
+            "aktuelnaCena": 250,
+            "staraCena": 289.99
+        },
+        "dostupnost": true,
+        "jezik": "English",
+        "opis": "The Karamazov Brothers, is the last novel by Russian author Fyodor Dostoevsky. Dostoevsky spent nearly two years writing The Brothers Karamazov, which was published as a serial in The Russian Messenger from January 1879 to November 1880. Dostoevsky died less than four months after its publication.",
+        "brojKupljenih": 13
+    },
+    {
+        "id": 5,
+        "idPisac": 3,
+        "idKat": [2, 5, 7],
+        "slika": {
+            "src": "images/SlikeKnjiga/CrimeAndPunismed.jpg",
+            "alt": "Crime and Punishment Dostoevsky"
+        },
+        "naslov": "Crime and Punishment",
+        "isbn": "444887113",
+        "cena": {
+            "aktuelnaCena": 145.99,
+            "staraCena": null
+        },
+        "dostupnost": true,
+        "jezik": "English",
+        "opis": "Crime and Punishment is a novel by the Russian author Fyodor Dostoevsky. It was first published in the literary journal The Russian Messenger in twelve monthly installments during 1866.[1] It was later published in a single volume. It is the second of Dostoevsky's full-length novels following his return from ten years of exile in Siberia.",
+        "brojKupljenih": 95
+    },
+    {
+        "id": 6,
+        "idPisac": 3,
+        "idKat": [5, 6],
+        "slika": {
+            "src": "images/SlikeKnjiga/Idiot.jpg",
+            "alt": "The Idiot Dostoevsky"
+        },
+        "naslov": "The Idiot",
+        "isbn": "444887187",
+        "cena": {
+            "aktuelnaCena": 300.99,
+            "staraCena": 315
+        },
+        "dostupnost": false,
+        "jezik": "English",
+        "opis": "The Idiot s a novel by the 19th-century Russian author Fyodor Dostoevsky. It was first published serially in the journal The Russian Messenger in 1868-69.",
+        "brojKupljenih": 23
+    },
+    {
+        "id": 7,
+        "idPisac": 4,
+        "idKat": [2, 5],
+        "slika": {
+            "src": "images/SlikeKnjiga/UncleVanja.jpg",
+            "alt": "Uncle Vanya Chekhov"
+        },
+        "naslov": "Uncle Vanya",
+        "isbn": "222454587",
+        "cena": {
+            "aktuelnaCena": 68,
+            "staraCena": 95
+        },
+        "dostupnost": true,
+        "jezik": "English",
+        "opis": "Uncle Vanya s a play by the Russian playwright Anton Chekhov. It was first published in 1898, and was first produced in 1899 by the Moscow Art Theatre under the direction of Konstantin Stanislavski.",
+        "brojKupljenih": 74
+    },
+    {
+        "id": 8,
+        "idPisac": 5,
+        "idKat": [3, 4],
+        "slika": {
+            "src": "images/SlikeKnjiga/PostOffice.jpg",
+            "alt": "Post Office Bukovski"
+        },
+        "naslov": "Post Office",
+        "isbn": "999954784",
+        "cena": {
+            "aktuelnaCena": 45,
+            "staraCena": null
+        },
+        "dostupnost": false,
+        "jezik": "English",
+        "opis": "Post Office is the first novel written by the German-American author Charles Bukowski, published in 1971. The book is an autobiographical memoir of Bukowski's years working at the United States Postal Service.",
+        "brojKupljenih": 23
+    },
+    {
+        "id": 9,
+        "idPisac": 5,
+        "idKat": [3, 4],
+        "slika": {
+            "src": "images/SlikeKnjiga/HamonRy.jpg",
+            "alt": "Ham on Rye Bukovski"
+        },
+        "naslov": "Ham on Rye",
+        "isbn": "9999547414",
+        "cena": {
+            "aktuelnaCena": 30.5,
+            "staraCena": 50.5
+        },
+        "dostupnost": true,
+        "jezik": "English",
+        "opis": "Ham on Rye is a 1982 semi-autobiographical novel by American author and poet Charles Bukowski. Written in the first person, the novel follows Henry Chinaski, Bukowski's thinly veiled alter ego, during his early years.",
+        "brojKupljenih": 53
+    },
+    {
+        "id": 10,
+        "idPisac": 6,
+        "idKat": [3, 4, 6],
+        "slika": {
+            "src": "images/SlikeKnjiga/for whome the bell tolls.jpg",
+            "alt": "For Whom the Bell Tolls Hemingway"
+        },
+        "naslov": "For Whom the Bell Tolls",
+        "isbn": "4454548742",
+        "cena": {
+            "aktuelnaCena": 65,
+            "staraCena": 79
+        },
+        "dostupnost": true,
+        "jezik": "English",
+        "opis": "For Whom the Bell Tolls is a novel by Ernest Hemingway published in 1940. It tells the story of Robert Jordan, a young American volunteer attached to a Republican guerrilla unit during the Spanish Civil War.",
+        "brojKupljenih": 97
+    }
+]
